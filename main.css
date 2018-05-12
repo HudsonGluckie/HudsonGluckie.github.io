@@ -1,0 +1,73 @@
+.jumbotron {
+    background-image: url(http://www.careerjunction.co.za/blog/wp-content/uploads/2015/09/code.jpg);
+    color: oldlace;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.jumbotron h4 {
+    font-family:'Roboto Mono', monospace;
+}
+
+.nav {
+    font-size: 130% !important;
+}
+
+.nav a{
+    color: white !important;
+    font-family:'Roboto Mono', monospace !important;
+}
+
+.navbar-inverse {
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+#About {
+    background-color: lavender;
+    padding: 3%;
+    margin: 2%;
+}
+
+
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+.col-md-4 p{
+    text-align:justify; 
+}
+
+#Intro {
+    padding: 3%;
+}
+#ProjectsIntro {
+    padding: 4%;
+}
+
+#Projects {
+    padding: 2%;
+    margin: 1%;
+}
+
+
+footer {
+    background-color:#2F3133;
+    margin-top: 3%;
+    color:oldlace;
+    text-align: center;
+}
+a {
+    color: mistyrose;
+}
+
+a:hover {
+    color:green;
+}
+
+#Projects h3 {
+    color: #2a8322;
+}
